@@ -1,0 +1,3 @@
+### Notes
+* ECS programming architecture
+ 
